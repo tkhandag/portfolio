@@ -56,7 +56,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("portrait.jpg");
+      background-image: url("../img/rsz_3tarun1.jpg");
       border-radius: 50%;
       border: solid 3px white; 
     }
@@ -116,7 +116,7 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background: rgba(3, 22, 11, 0.6); }
+      background: rgba(22, 3, 3, 0.6); }
 
 h1,
 h2,
@@ -274,9 +274,10 @@ main {
    
    
     .menu-branding .portrait {
-      background-image: url("portrait.jpg");
-      width: 150px;
-      height: 150px; }
+      background-image: url("../img/rsz_3tarun1.jpg");
+      width: 250px;
+      height: 250px; 
+    }
 
       
   .about-info {
